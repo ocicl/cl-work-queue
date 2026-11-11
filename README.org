@@ -4,6 +4,6 @@ Keyed, lane-limited background work queues for Common Lisp.
 
 |---------+--------------------------------------------------+
 | source  | git:https://github.com/atgreen/cl-work-queue.git |
-| commit  | 0000000                                          |
+| commit  | 893291d                                          |
 | systems | cl-work-queue                                    |
 |---------+--------------------------------------------------+
